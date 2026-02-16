@@ -1,0 +1,12 @@
+{
+  "name": "singleton-design-pattern",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "ts-node static.ts",
+    "run": "ts-node static.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0"
+  }
+}
