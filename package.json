@@ -1,0 +1,14 @@
+{
+  "name": "syatem-design",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "ts": "ts-node",
+    "run": "ts-node"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0"
+  }
+}
